@@ -59,7 +59,7 @@ button{
 .operator{
     color: #6dee0a;
 }
-@media screen and (max-width: 500px) {
+/* @media screen and (max-width: 500px) {
     .calculator {
         padding: 15px;
         max-width: 90%;
@@ -69,4 +69,5 @@ button{
         font-size: 1.5rem;
         height: 50px;
     }
-}
+
+} */
